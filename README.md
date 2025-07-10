@@ -1,3 +1,51 @@
+**BookConnect**
+
+    BookConnect is an online platform where book lovers can easily donate, find, and request books. This website connects readers and donators directly and         encourages book sharing for a sustainable reading culture.
+
+**-Key Features**
+
+    1. User Authentication
+    Login and Register to access personalized features
+
+    2. Home Page
+    Clean landing page showing a brief about BookConnect and its purpose
+
+    3. Search Functionality
+    Search for books by title, category, or author
+
+    4. Featured Section
+    Highlighted and popular books for the week
+
+    5. Arrivals Section
+    Newly added books displayed in a dynamic section
+
+    6. Reviews Section
+    Readers can share their experience and feedback about books
+
+    7. Donate a Book
+    Donate books by filling a simple form
+    Donated books are listed for others to explore
+
+    8. Get Book Now
+    A special "Get Book Now" option where the requester can contact the book donator directly through the platform
+    Encourages one-on-one book exchanges
+
+**-Tech Stack Used**
+
+    Frontend: React.js  
+    Backend (Database): MySQL  
+    Styling: CSS
+
+## 🖼️ Screenshots
+
+> Save your screenshots in a folder called `images/` and reference them like this:
+
+```markdown
+![Login Page](images/login.png)
+![Home Page](images/home.png)
+![Search Results](images/search.png)
+![Donate Book](images/donate.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
